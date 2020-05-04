@@ -3,9 +3,9 @@ import Header from './Header';
 import Footer from './Footer';
 import ScoreFinal from './ScoreFinal'
 import './Score.css'
-import vomit from './vomit.svg'
-import emotion from './emotion.svg'
-import emoji from './emoji.svg'
+import vomit from './img/vomit.svg'
+import emotion from './img/emotion.svg'
+import emoji from './img/emoji.svg'
 
 class Score extends React.Component {
     state={

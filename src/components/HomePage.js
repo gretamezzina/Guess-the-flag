@@ -12,7 +12,7 @@ class HomePage extends React.Component {
                     <h2 className="homeH2">Welcome to this extraordinary flag knowledge quiz !</h2>
                 </header>
                 <div>
-                    <img src={Map} alt="World map" className="Background" />
+                    <img src={Map} alt="World map" className="background" />
                 </div>
                 <div className="StartButton">
                     <StartButton />
